@@ -1,1 +1,1 @@
-# Class-86-.
+# ST-86-Boilerplate
